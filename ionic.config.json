@@ -1,5 +1,7 @@
 {
   "name": "wooIonic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
